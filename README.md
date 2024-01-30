@@ -19,3 +19,4 @@ A Vite plugin that can run TypeScript, VLS, vue-tsc, ESLint, Stylelint in worker
 ## License
 
 MIT License © 2022 [fi3ework](https://github.com/fi3ework)
+
