@@ -1,5 +1,11 @@
 # vite-plugin-checker
 
+## 0.6.3
+
+### Patch Changes
+
+- e5a26d6: feat: support initially open overlay for errors
+
 ## 0.6.2
 
 ### Patch Changes
